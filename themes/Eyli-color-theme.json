@@ -116,6 +116,7 @@
 				"keyword.operator.arithmetic",
 				"keyword.operator.assignment",
 				"keyword.operator.increment",
+				"keyword.operator.decrement",
 			],
 			"settings": {
 				"foreground": "#FF0077"
