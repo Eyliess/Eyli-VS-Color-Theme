@@ -11,13 +11,13 @@
 		{
 			"scope": "comment.line.double-slash",
 			"settings": {
-				"foreground": "#5bb14e"
+				"foreground": "#5BB14E"
 			}
 		},
 		{
 			"scope": "comment.block.documentation",
 			"settings": {
-				"foreground": "#46803d"
+				"foreground": "#46803D"
 			}
 		},
 		{
@@ -84,7 +84,13 @@
 				"variable.other.object.property",
 			],
 			"settings": {
-				"foreground": "#fff782"
+				"foreground": "#FFF782"
+			}
+		},
+		{
+			"scope": "entity.name.variable.parameter",
+			"settings": {
+				"foreground": "#A7A7A7"
 			}
 		},
 		{
@@ -152,8 +158,8 @@
 		"struct": "#B8D7A3",
 		"enum": "#B8D7A3",
 		"interface": "#B8D7A3",
-		"event": "#ff897a",
-		"property": "#fff782",
+		"event": "#FF897A",
+		"property": "#FFF782",
 		"operatorOverloaded": {
 			"foreground": "#CF0000",
 			"fontStyle": "italic"
