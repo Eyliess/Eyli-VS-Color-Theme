@@ -1,0 +1,21 @@
+{
+    "name": "eyli",
+    "displayName": "Eyli",
+    "description": "Custom theme providing a better neural interface for Eyliess.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Eyli",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Eyli-color-theme.json"
+            }
+        ]
+    }
+}
