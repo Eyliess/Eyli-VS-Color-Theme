@@ -300,6 +300,12 @@
 			}
 		},
 		{
+			"scope": "keyword.preprocessor",
+			"settings": {
+				"foreground": "#808080"
+			}
+		},
+		{
 			"scope": [
 				"storage.modifier",
 			],
@@ -425,6 +431,7 @@
 	],
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
+		"preprocessorKeyword": "#808080",
 		"*.static": {
 			"fontStyle": "bold"
 		},
