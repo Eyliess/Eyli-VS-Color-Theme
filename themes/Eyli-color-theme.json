@@ -425,7 +425,6 @@
 	],
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
-		"comment": "#ff0000",
 		"*.static": {
 			"fontStyle": "bold"
 		},
