@@ -292,7 +292,9 @@
 			}
 		},
 		{
-			"scope": "comment.block.documentation",
+			"scope": [
+				"comment.block",
+			],
 			"settings": {
 				"foreground": "#46803D"
 			}
@@ -423,6 +425,7 @@
 	],
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
+		"comment": "#ff0000",
 		"*.static": {
 			"fontStyle": "bold"
 		},
