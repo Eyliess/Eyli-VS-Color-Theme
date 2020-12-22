@@ -321,6 +321,7 @@
 		},
 		{
 			"scope": [
+				"keyword.other.new",
 				"keyword.other.var",
 				"keyword.other.class",
 				"keyword.other.struct",
@@ -402,6 +403,7 @@
 				"keyword.operator.assignment",
 				"keyword.operator.increment",
 				"keyword.operator.decrement",
+				"keyword.operator.conditional",
 			],
 			"settings": {
 				"foreground": "#FF0077"
