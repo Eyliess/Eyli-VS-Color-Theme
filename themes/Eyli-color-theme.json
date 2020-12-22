@@ -403,6 +403,8 @@
 				"keyword.operator.assignment",
 				"keyword.operator.increment",
 				"keyword.operator.decrement",
+				"keyword.operator.null-conditional",
+				"keyword.operator.null-coalescing",
 				"keyword.operator.conditional",
 			],
 			"settings": {
