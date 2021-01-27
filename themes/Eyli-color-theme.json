@@ -406,6 +406,7 @@
 				"keyword.operator.null-conditional",
 				"keyword.operator.null-coalescing",
 				"keyword.operator.conditional",
+				"keyword.operator.bitwise"
 			],
 			"settings": {
 				"foreground": "#FF0077"
@@ -418,7 +419,9 @@
 			}
 		},
 		{
-			"scope": "constant.language.null",
+			"scope": [
+				"constant.language.null",
+			],
 			"settings": {
 				"foreground": "#4A83CA",
 			}
